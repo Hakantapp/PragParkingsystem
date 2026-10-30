@@ -1,0 +1,14 @@
+
+#Prislistan
+
+
+
+# Priset per påbörjad timme i CZK:
+
+Bil = 20
+
+MC = 10
+
+
+# Antal fria minuter för parkering är 
+  GratisMinuter = 10 

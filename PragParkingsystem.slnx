@@ -1,3 +1,10 @@
 <Solution>
-  <Project Path="Prag Parking/Prag Parking.csproj" />
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="Prag Parking/PragueParkingV1.csproj" />
+  <Project Path="PragueParking.Core/PragueParking.Core.csproj" Id="cbdcce0e-ff97-4c2a-a0b6-4180396282f6" />
+  <Project Path="PragueParking.Filhantering/PragueParking.Filhantering.csproj" Id="014656b8-dc2f-4611-bc06-b66c3e863b03" />
+  <Project Path="PragueParking.Tests/PragueParking.Tests.csproj" Id="c70a9a32-3436-4011-999f-942c725c46c8" />
+  <Project Path="PragueParkingV2/PragueParkingV2.csproj" Id="72229974-9213-4da8-b5a9-027da7cd2ad3" />
 </Solution>

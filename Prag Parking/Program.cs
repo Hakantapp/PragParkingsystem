@@ -92,7 +92,7 @@ while (KörProgammet)
         Console.Clear();
 
     }
-    // Clear the console scrollback buffer
+    // rensar konsolens scrollback buffert
     Console.Write("\x1b[3J");
 }
 
@@ -509,5 +509,3 @@ void VisaGaragePlatser()
     }
 
 }
-
-

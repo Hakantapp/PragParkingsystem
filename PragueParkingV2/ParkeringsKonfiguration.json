@@ -1,0 +1,22 @@
+{
+  "Parkeringsplatser": [
+    {
+      "Antal": 80,
+      "Storlek": 2
+    },
+    {
+      "Antal": 20,
+      "Storlek": 4
+    }
+  ],
+  "Fordonstyper": [
+    {
+      "Namn": "Bil",
+      "Storlek": 2
+    },
+    {
+      "Namn": "MC",
+      "Storlek": 1
+    }
+  ]
+}
